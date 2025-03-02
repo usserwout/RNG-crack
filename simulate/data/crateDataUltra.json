@@ -1,0 +1,136 @@
+{
+  "items": [
+    {
+      "chance": 40,
+      "name": "+ $30,000 Cash"
+    },
+    {
+      "chance": 25,
+      "name": "+ $50,000 Cash"
+    },
+    {
+      "chance": 10,
+      "name": "+ $70,000 Cash"
+    },
+    {
+      "chance": 1,
+      "name": "Veinminer Pickaxe"
+    },
+    {
+      "chance": 20,
+      "name": "+75 Island Shards"
+    },
+    {
+      "chance": 10,
+      "name": "+100 Island Shards"
+    },
+    {
+      "chance": 5,
+      "name": "+125 Island Shards"
+    },
+    {
+      "chance": 25,
+      "name": "x1 Iron Golem Spawner"
+    },
+    {
+      "chance": 20,
+      "name": "x1 Pigman Spawner"
+    },
+    {
+      "chance": 15,
+      "name": "x1 Silverfish Spawner"
+    },
+    {
+      "chance": 15,
+      "name": "x1 Villager Spawner"
+    },
+    {
+      "chance": 15,
+      "name": "![SkyChamp]! Kit Voucher"
+    },
+    {
+      "chance": 10,
+      "name": "![SkyLord]! Kit Voucher"
+    },
+    {
+      "chance": 10,
+      "name": "![SkyGod]! Kit Voucher"
+    },
+    {
+      "chance": 1,
+      "name": "Seasonal Fly Command Voucher"
+    },
+    {
+      "chance": 2,
+      "name": "Seasonal Fix Command Voucher"
+    },
+    {
+      "chance": 0.5,
+      "name": "Seasonal Fix All Command Voucher"
+    },
+    {
+      "chance": 2,
+      "name": "Silktouch Spawners Voucher"
+    },
+    {
+      "chance": 25,
+      "name": "Spawner Container"
+    },
+    {
+      "chance": 3,
+      "name": "Legendary Spawner Case"
+    },
+    {
+      "chance": 10,
+      "name": "Godly Spawner Case"
+    },
+    {
+      "chance": 3,
+      "name": "+ 30 Minutes Money booster"
+    },
+    {
+      "chance": 3,
+      "name": "+ 30 Minutes Exp booster"
+    },
+    {
+      "chance": 2,
+      "name": "Ultra Mining Backpack"
+    },
+    {
+      "chance": 5,
+      "name": "Ultra Crop Backpack"
+    },
+    {
+      "chance": 0.5,
+      "name": "Seasonal Dust GKit Voucher"
+    },
+    {
+      "chance": 1,
+      "name": "Ultra Crate Key (x3)"
+    },
+    {
+      "chance": 1,
+      "name": "God Crate Key (x2)"
+    },
+    {
+      "chance": 0.5,
+      "name": "Ultra Crate Key ALL"
+    },
+    {
+      "chance": 2,
+      "name": "Frenzy Crop Hoe"
+    },
+    {
+      "chance": 0.2,
+      "name": "Seasonal SkyWarrior Rank Voucher "
+    },
+    {
+      "chance": 0.02,
+      "name": "SkyWarrior Rank Voucher"
+    },
+    {
+      "chance": 0.02,
+      "name": "Seasonal SkyChamp Rank Voucher "
+    }
+  ]
+}

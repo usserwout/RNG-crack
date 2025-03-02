@@ -1,0 +1,158 @@
+{"items":[
+  {
+    "name": "3x Villager Spawner",
+    "chance": 0.5
+  },
+  {
+    "name": "3x SilverFish Spawner",
+    "chance": 0.5
+  },
+  {
+    "name": "3x Ghast  Spawner",
+    "chance": 0.5
+  },
+  {
+    "name": "+1000 Mob Coins",
+    "chance": 5
+  },
+  {
+    "name": "+2500 Mob Coins",
+    "chance": 5
+  },
+  {
+    "name": "+5000 Mob Coins",
+    "chance": 5
+  },
+  {
+    "name": "+$500,000",
+    "chance": 20
+  },
+  {
+    "name": "+$750,000",
+    "chance": 20
+  },
+  {
+    "name": "+$1,000,000",
+    "chance": 20
+  },
+  {
+    "name": "Overpowerd Kit Container",
+    "chance": 5
+  },
+  {
+    "name": "Overpowerd Spawner Container",
+    "chance": 0.5
+  },
+  {
+    "name": "Spawner Container",
+    "chance": 10
+  },
+  {
+    "name": "Key Container",
+    "chance": 10
+  },
+  {
+    "name": "+125,000 EXP",
+    "chance": 20
+  },
+  {
+    "name": "+250,000 EXP",
+    "chance": 20
+  },
+  {
+    "name": "![SkyVip]! Kit Voucher",
+    "chance": 20
+  },
+  {
+    "name": "![SkyChamp]! Kit Voucher",
+    "chance": 30
+  },
+  {
+    "name": "![SkyLord]! Kit Voucher",
+    "chance": 10
+  },
+  {
+    "name": "+10 PlayerVaults Voucher",
+    "chance": 5
+  },
+  {
+    "name": "+20 PlayerVaults Voucher",
+    "chance": 5
+  },
+  {
+    "name": "Armani Special Set",
+    "chance": 30
+  },
+  {
+    "name": "Adidas Special Set",
+    "chance": 10
+  },
+  {
+    "name": "Gucci Special Set",
+    "chance": 10
+  },
+  {
+    "name": "Bape Special Set",
+    "chance": 30
+  },
+  {
+    "name": "Mysterious Spawner GKit Book",
+    "chance": 25
+  },
+  {
+    "name": "Mysterious Keys GKit Book",
+    "chance": 25
+  },
+  {
+    "name": "Mystery GKit Crate",
+    "chance": 0.5
+  },
+  {
+    "name": "Mystery Rank Crate",
+    "chance": 0.5
+  },
+  {
+    "name": "Silktouch Spawners Voucher",
+    "chance": 5
+  },
+  {
+    "name": "Fix All Command Voucher",
+    "chance": 5
+  },
+  {
+    "name": "Fix Command Voucher",
+    "chance": 5
+  },
+  {
+    "name": "Fly Command Voucher",
+    "chance": 0.5
+  },
+  {
+    "name": "Legendary Spawner Case",
+    "chance": 10
+  },
+  {
+    "name": "Godly Spawner Case",
+    "chance": 5
+  },
+  {
+    "name": "3x Ultra Crate Key",
+    "chance": 10
+  },
+  {
+    "name": "2x God Crate Key",
+    "chance": 0.5
+  },
+  {
+    "name": "SkyChamp Rank Voucher",
+    "chance": 0.5
+  },
+  {
+    "name": "SkyLord Rank Voucher",
+    "chance": 0.5
+  },
+  {
+    "name": "SkyGod Rank Voucher",
+    "chance": 0.5
+  }
+]}

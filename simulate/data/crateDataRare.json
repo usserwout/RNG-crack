@@ -1,0 +1,128 @@
+{
+  "items": [
+    {
+      "name": "+ $5,000 Cash",
+      "chance": 40
+    },
+    {
+      "name": "+ $7,000 Cash",
+      "chance": 25
+    },
+    {
+      "name": "+ $10,000 Cash",
+      "chance": 10
+    },
+    {
+      "name": "Elemental Pickaxe",
+      "chance": 1
+    },
+    {
+      "name": "2x Cave Spider Spawner",
+      "chance": 25
+    },
+    {
+      "name": "2x Zombie Spawner",
+      "chance": 20
+    },
+    {
+      "name": "2x Skeleton Spawner",
+      "chance": 15
+    },
+    {
+      "name": "Diamond Sword",
+      "chance": 15
+    },
+    {
+      "name": "Diamond Pickaxe",
+      "chance": 10
+    },
+    {
+      "name": "Diamond Axe",
+      "chance": 15
+    },
+    {
+      "name": "+25 Island Shards",
+      "chance": 20
+    },
+    {
+      "name": "x16 Golden Apple",
+      "chance": 5
+    },
+    {
+      "name": "Epic Fuel Box",
+      "chance": 5
+    },
+    {
+      "name": "Exotic Fuel Box",
+      "chance": 4
+    },
+    {
+      "name": "Shop Crop Hoe",
+      "chance": 10
+    },
+    {
+      "name": "x3 Item Rename (Right Click)",
+      "chance": 3
+    },
+    {
+      "name": "Feed Command Voucher",
+      "chance": 1
+    },
+    {
+      "name": "Nick Command Voucher",
+      "chance": 1
+    },
+    {
+      "name": "Mystery CrateKey Crate",
+      "chance": 1
+    },
+    {
+      "name": "Rare Mining Backpack",
+      "chance": 1
+    },
+    {
+      "name": "Rare Crop Backpack",
+      "chance": 5
+    },
+    {
+      "name": "Seasonal Mystery GKit Crate",
+      "chance": 0.5
+    },
+    {
+      "name": "Ultimate Spawner Case",
+      "chance": 1
+    },
+    {
+      "name": "Rare Crate Key ALL",
+      "chance": 0.5
+    },
+    {
+      "name": "+1 PlayerVaults Voucher",
+      "chance": 1
+    },
+    {
+      "name": "Rare Crate Key (x3)",
+      "chance": 1
+    },
+    {
+      "name": "Ultra Crate Key (x1)",
+      "chance": 1
+    },
+    {
+      "name": "God Crate Key (x1)",
+      "chance": 1
+    },
+    {
+      "name": "Seasonal SkyVIP Rank Voucher ",
+      "chance": 0.2
+    },
+    {
+      "name": "SkyVIP Rank Voucher",
+      "chance": 0.02
+    },
+    {
+      "name": "Seasonal SkyWarrior Rank Voucher ",
+      "chance": 0.02
+    }
+  ]
+}

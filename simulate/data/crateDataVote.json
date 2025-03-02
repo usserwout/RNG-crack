@@ -1,0 +1,138 @@
+{
+  "items": [{
+    "name": "+ $1,500 Cash",
+    "chance": 40
+  },
+  {
+    "name": "+ $2,000 Cash",
+    "chance": 25
+  },
+  {
+    "name": "+ $2,500 Cash",
+    "chance": 10
+  },
+  {
+    "name": "1x Sheep Spawner",
+    "chance": 25
+  },
+  {
+    "name": "1x Cow Spawner",
+    "chance": 20
+  },
+  {
+    "name": "1x Mushroom Cow Spawner",
+    "chance": 15
+  },
+  {
+    "name": "1x Cave Spider Spawner",
+    "chance": 10
+  },
+  {
+    "name": "Diamond Sword",
+    "chance": 15
+  },
+  {
+    "name": "Diamond Pickaxe",
+    "chance": 10
+  },
+  {
+    "name": "Diamond Axe",
+    "chance": 15
+  },
+  {
+    "name": "Crop Hoe",
+    "chance": 5
+  },
+  {
+    "name": "x8 Golden Apple",
+    "chance": 5
+  },
+  {
+    "name": "Epic Fuel Box",
+    "chance": 5
+  },
+  {
+    "name": "Exotic Fuel Box",
+    "chance": 3
+  },
+  {
+    "name": "![SkyDonor]! Kit Voucher",
+    "chance": 15
+  },
+  {
+    "name": "![SkyVip]! Kit Voucher",
+    "chance": 10
+  },
+  {
+    "name": "![SkyWarrior]! Kit Voucher",
+    "chance": 10
+  },
+  {
+    "name": "![SkyChamp]! Kit Voucher",
+    "chance": 5
+  },
+  {
+    "name": "![SkyLord]! Kit Voucher",
+    "chance": 2
+  },
+  {
+    "name": "Common Mining Backpack",
+    "chance": 1
+  },
+  {
+    "name": "Common Crop Backpack",
+    "chance": 5
+  },
+  {
+    "name": "Workbench Command Voucher",
+    "chance": 1
+  },
+  {
+    "name": "Feed Command Voucher",
+    "chance": 1
+  },
+  {
+    "name": "Nick Command Voucher",
+    "chance": 1
+  },
+  {
+    "name": "Fragment Container",
+    "chance": 1.5
+  },
+  {
+    "name": "Rare Crate Key ALL",
+    "chance": 0.1
+  },
+  {
+    "name": "Mystery CrateKey Crate",
+    "chance": 1
+  },
+  {
+    "name": "+1 PlayerVaults Voucher",
+    "chance": 1
+  },
+  {
+    "name": "Unique Spawner Case",
+    "chance": 1
+  },
+  {
+    "name": "Rare Crate Key (x1)",
+    "chance": 1
+  },
+  {
+    "name": "Ultra Crate Key (x1)",
+    "chance": 1
+  },
+  {
+    "name": "Eternal Pickaxe",
+    "chance": 1
+  },
+  {
+    "name": "Seasonal Skydonor Rank Voucher ",
+    "chance": 0.2
+  },
+  {
+    "name": "Seasonal SkyVIP Rank Voucher ",
+    "chance": 0.12
+  }]
+}
