@@ -1,4 +1,4 @@
-```markdown
+
 # Truncated RNG Cracker
 
 This project is designed to crack the seed of a Linear Congruential Generator (LCG) using truncated states. The project includes scripts for solving the truncated states, visualizing the results, and fuzzing to find the correct seed. We use the LLL method to solve the equations. You can read about how [lattice basis reduction can find the seed of LCG's](https://github.com/spawnmason/randar-explanation/blob/master/README.md).
